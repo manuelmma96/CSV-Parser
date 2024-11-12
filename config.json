@@ -1,0 +1,6 @@
+{
+    "delimiter": "\"",
+    "hasHeaders": true,
+    "separator": ",",
+    "terminator": "\n"
+}
